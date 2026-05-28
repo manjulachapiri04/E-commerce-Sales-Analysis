@@ -47,4 +47,7 @@ The dashboard helps understand:
 
 https://github.com/manjulachapiri04/E-commerce-Sales-Analysis/blob/7e75a076fa6caa970eb3ab594a1065f37a2bbf33/E-COMMERCE%20SALES%20ANALYSIS%20DASHBOARD.png
 
+⭐ Conclusion
+This project demonstrates how Microsoft Excel can be used as a powerful Business Intelligence tool to analyze E-Commerce sales data and generate actionable insights through interactive dashboards and KPI tracking. 📊✨
+
 
